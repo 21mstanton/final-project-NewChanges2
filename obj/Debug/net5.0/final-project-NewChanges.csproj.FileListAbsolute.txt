@@ -1,0 +1,16 @@
+C:\Users\Maxton\git\final-project-NewChanges\bin\Debug\net5.0\final-project-NewChanges.exe
+C:\Users\Maxton\git\final-project-NewChanges\bin\Debug\net5.0\final-project-NewChanges.deps.json
+C:\Users\Maxton\git\final-project-NewChanges\bin\Debug\net5.0\final-project-NewChanges.runtimeconfig.json
+C:\Users\Maxton\git\final-project-NewChanges\bin\Debug\net5.0\final-project-NewChanges.runtimeconfig.dev.json
+C:\Users\Maxton\git\final-project-NewChanges\bin\Debug\net5.0\final-project-NewChanges.dll
+C:\Users\Maxton\git\final-project-NewChanges\bin\Debug\net5.0\ref\final-project-NewChanges.dll
+C:\Users\Maxton\git\final-project-NewChanges\bin\Debug\net5.0\final-project-NewChanges.pdb
+C:\Users\Maxton\git\final-project-NewChanges\obj\Debug\net5.0\final-project-NewChanges.csproj.AssemblyReference.cache
+C:\Users\Maxton\git\final-project-NewChanges\obj\Debug\net5.0\final-project-NewChanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxton\git\final-project-NewChanges\obj\Debug\net5.0\final-project-NewChanges.AssemblyInfoInputs.cache
+C:\Users\Maxton\git\final-project-NewChanges\obj\Debug\net5.0\final-project-NewChanges.AssemblyInfo.cs
+C:\Users\Maxton\git\final-project-NewChanges\obj\Debug\net5.0\final-project-NewChanges.csproj.CoreCompileInputs.cache
+C:\Users\Maxton\git\final-project-NewChanges\obj\Debug\net5.0\final-project-NewChanges.dll
+C:\Users\Maxton\git\final-project-NewChanges\obj\Debug\net5.0\ref\final-project-NewChanges.dll
+C:\Users\Maxton\git\final-project-NewChanges\obj\Debug\net5.0\final-project-NewChanges.pdb
+C:\Users\Maxton\git\final-project-NewChanges\obj\Debug\net5.0\final-project-NewChanges.genruntimeconfig.cache
